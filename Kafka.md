@@ -6,3 +6,7 @@
 - http://cloudurable.com/blog/spark-tutorial-part3-streaming-mlib/index.html
 - https://www.confluent.io/blog/stream-data-platform-1/
 - https://www.confluent.io/blog/stream-data-platform-2/
+
+## Example Repo
+
+- [kafka stream example using cpu matrix](https://github.com/abhirockzz/kafka-streams-example)
