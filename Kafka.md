@@ -10,3 +10,4 @@
 ## Example Repo
 
 - [kafka stream example using cpu matrix](https://github.com/abhirockzz/kafka-streams-example)
+- [Kafka with spark and real time graph ploating](https://github.com/trK54Ylmz/kafka-spark-streaming-example)
