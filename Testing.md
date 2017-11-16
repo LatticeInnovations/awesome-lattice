@@ -2,7 +2,7 @@
 
 ## Contents
 
-- [API](ttps://github.com/LatticeInnovations/awesome-lattice/blob/master/Testing.md#api)
+- [API](https://github.com/LatticeInnovations/awesome-lattice/blob/master/Testing.md#api)
 
 ## API
 
